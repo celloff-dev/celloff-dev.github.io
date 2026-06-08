@@ -4,7 +4,7 @@ function goto_page(id) {
             set_page("./index.html");
             break;
         case "github":
-            set_page("https://github.com/celloffstudio/");
+            set_page("https://github.com/celloff-dev/");
             break;
         case "twitter":
             set_page("https://twitter.com/Celloff___");
